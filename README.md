@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal10228&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal10228" /> </p>
 
 <h3 align="left"> 💫 About Me: </h3>
+
 - ⁠🎓 Undergraduate at IIT BHU, pursuing Engineering Physics
 
 - ⁠🤖 Passionate about DeepLearning, Natural Language Processing, LLMs, Generative Models, Timeseries Forecasting, Quantum Computing, Quantum Machine Learning
