@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
-<h3 align="center">A passionate AI and Quantum researcher from India</h3>
+<h3 align="center">An aspiring researcher and problem solver. Interested about AI and Quantum Computing </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal10228&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal10228" /> </p>
 
-- 💬 Ask me about **AI, Quantum Computing, Quantum Machine Learning**
+- 💫 **About Me**
+- ⁠🎓 Undergraduate at IIT BHU, pursuing Engineering Physics
+- ⁠🤖 Passionate about DeepLearning, Natural Language Processing, LLMs, Generative Models, Timeseries Forecasting, Quantum Computing, Quantum Machine Learning
+- 🤝 Open to research collaborations in DeepLearning, Generative Models, Quantum Computing, Quantum Machine Learning and Quantum Inspired Learning
 
 - 📫 How to reach me **ujjwalkumar10228@gmail.com**
 
