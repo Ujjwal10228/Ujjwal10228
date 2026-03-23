@@ -67,13 +67,13 @@
 
 ## 🚀 Featured Projects
 
-### 📝 [Blog Writing Agent](https://github.com/ujjwal10228)
+### 📝 [Blog Writing Agent]([https://github.com/ujjwal10228](https://github.com/Ujjwal10228/Blog-writing-Agent))
 > **LangGraph · LLaMA 3.3 (Groq) · RAG · Streamlit**
 - Built a **multi-agent LLM pipeline**: routing → research → planning → execution → aggregation
 - Engineered RAG with dynamic web search + citation grounding to reduce hallucinations in long-form content
 - Deployed as a real-time **Streamlit app** with multimodal output streaming
 
-### 🔍 [Predict Closed Questions — Stack Overflow](https://github.com/ujjwal10228)
+### 🔍 [Predict Closed Questions — Stack Overflow]([https://github.com/ujjwal10228](https://github.com/Ujjwal10228/Predict-Closed-Questions-on-StackOverflow))
 > **BERT · NLP Pipeline · 5-Class Classification**
 - Fine-tuned **BERT** for 5-class classification; achieved **61.7% accuracy** on imbalanced real-world data
 - Built NLP pipeline: stopword removal → stemming → tokenization → label encoding
